@@ -1,5 +1,5 @@
 # Modern UI/UX GPT-3
-### [Live Site](https://gpt3-jsm.com/)
+### [Live Site](https://lustrous-pavlova-7875d9.netlify.app/)
 
 ## Introduction
 This is a code repository for the practice of modern UI/UX web-app. 
